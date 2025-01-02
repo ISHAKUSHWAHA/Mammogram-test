@@ -1,1 +1,1 @@
- Predict whether mammographic masses are benign or malignant using patient data such as age, shape, margin, and density as predictors. Implemented and evaluated multiple classification algorithms, including Decision Tree, Logistic Regression, k-Nearest Neighbors (k-NN), Naive Bayes, and Support Vector Machines (SVM).The study provided insights into the most effective algorithm for this medical diagnosis task, aiding in improving early detection and diagnosis efficiency.
+
